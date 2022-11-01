@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kailai Cui"
 title_separator          : "-"
-name                     : &name "Kailai Cui(崔开来)"
+name                     : &name "Kailai Cui"
 description              : &description "personal description"
 url                      : https://kevincklhhh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Kailai Cui"
   avatar           : "profile.png"
-  bio              : "A biography"
   location         : "Williamsburg"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            :
+  email            : kcui@wm.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : https://github.com/Kevincklhhh
   google_plus      :
   keybase          :
   instagram        :
