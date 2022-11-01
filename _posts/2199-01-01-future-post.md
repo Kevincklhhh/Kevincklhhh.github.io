@@ -9,4 +9,4 @@ tags:
 ---
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
-![](https://i2.wp.com/ethos.itu.dk/wp-content/uploads/sites/14/2018/04/geigerblogtalk.png?resize=602%2C602&ssl=1)
+![]/Kevincklhhh.github.io/images/blog1.png
