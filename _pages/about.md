@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am Kailai Cui. I am a senior at the College of William and Mary. I will be joining Dr. Kang Shin at the University of Michigan as a Phd student in CSE.</p>
+<p>I am Kailai Cui. I am a senior at the College of William and Mary. I will be joining Dr. Kang Shin at the University of Michigan as a PhdD student in CSE.</p>
 
 <p>My research interests include embedded and mobile systems, Internet of Things security and applied machine learning. I am eager to design systems that synthesize inputs from sensors and make decisions. I am also interested in making such systems secure, efficient and reliable. </p>
 
