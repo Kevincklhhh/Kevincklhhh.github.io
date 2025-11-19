@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p>I am Kailai Cui. I am a first year PhD student in CSE at the University of Michigan. My advisor is Professor Kang Shin.</p>
+<p>I am Kailai Cui, a 3rd year PhD candidate in Computer Science and Engineering at the University of Michigan, advised by Professor Kang G. Shin and Professor Ke Sun.</p>
 
-<p>My research interests include mobile computing systems, and the security of such systems. I am currently working on a novel battery-enabled anti-theft vehicle immobilizer, Bleuth, collaborating with Professor Liang He from the University of Colorado, Denver. This project tackles the vulnerability of existing wireless communication based vehicle keys. Bleuth allows drivers to send authentication code to battery through modulated current fluctuation on the vehicle's power line. </p>
+<p>My research interests lie in mobile and wearable systems, with a focus on multimodal AI. Currently, I am investigating multimodal AI frameworks for human memory augmentation, focusing on extracting structured context and persistent object states from daily interactions captured through smart glasses. This work involves developing novel video analysis frameworks that orchestrate Vision-Language Models (VLMs) and SAM2 to track non-rigid object transformations across long egocentric videos.</p>
 
-<p>I finished my undergraduate studies at William & Mary, where I worked under the supervision of Dr. Gang Zhou. A major project I participated in is Light Auditor, in which we tackled IoT privacy via power side-channel auditing. </p>
-
-<p>Besides computer science, I was also a student of mathematics. I worked on computational group theory with Dr. Eric Swartz. I read about algorithms that search for permutation group elements by observing their actions on different graphs. The math classes I took, including analysis, algebra and topology have trained me to think rigorously and understand abstract concepts.  </p>
+<p>Previously, I designed novel sensing systems for UWB-based smartphone localization inside vehicles to prevent distracted driving. I also worked on IoT security through power side-channel auditing. I completed my undergraduate studies at the College of William & Mary, where I earned Bachelor of Science degrees in both Computer Science and Mathematics, working under the supervision of Professor Gang Zhou.</p>
 
